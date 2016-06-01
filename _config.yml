@@ -1,0 +1,28 @@
+name: tofs
+favicon: null
+layout_spectrum: 0.7279440362472087
+typography_spectrum: 0.8102105683647096
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.032752375584095716
+  lightness: 0.6217755659017712
+  saturation: 0.4344190664123744
+  rhythmicContrast: 0.7226304074283689
+purpose: []
