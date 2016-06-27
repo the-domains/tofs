@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[tofs]]></title>
         <description><![CDATA[tofs]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/tofs/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 01 Jun 2016 06:58:51 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 27 Jun 2016 05:50:09 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/tofs/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>A stalwart of the Tasmanian dance music scene, Chris neoBi's first foray into the world of DJing was through community radio in 1994. With a passionate love for the music, and driven to expose this music to a wider audience, Chris then launched into a career in the clubs which has seen him play alongside many of Australia's finest DJs, not to mention a number of the world's best. International luminaries Chris has supported include Crazy Penis, Dave Clarke, Lottie, Dave Seaman, Infusion, BT, Ian Pooley, Lucien Foort, Evil Nine, Kaskade, James Holden, Steve Gerrard, Monkey Safari, Lancelot, John Kelly and Ashley Casselle, to name but a few. When a promoter requires a controlled warm-up set to set the night off right, or a follow-up set to remember, it is most often that they call on Chris to play.</p>]]></description>
+            <link>https://thegrid.ai/tofs/a-stalwart-of-the-tasmanian-dance-music-scene-chris-neobis/index.html</link>
+            <guid isPermaLink="false">f7f95120-ea83-424a-babd-978bbf8c4c9a</guid>
+            <pubDate>Mon, 27 Jun 2016 05:50:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bd6f6a00-2d6c-45f5-90c7-74cd79b11664.gif">]]></description>
-            <link>undefinedlarge/index.html</link>
+            <link>https://thegrid.ai/tofs/large/index.html</link>
             <guid isPermaLink="false">ac720815-e8aa-4a0a-a5fa-97cb59a235ee</guid>
             <pubDate>Wed, 01 Jun 2016 06:58:11 GMT</pubDate>
         </item>
